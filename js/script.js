@@ -1,5 +1,5 @@
 
-console.log("lets write javascript");
+
 
 let currentSong = new Audio();
 let songs;
